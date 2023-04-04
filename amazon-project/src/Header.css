@@ -1,3 +1,4 @@
+
 .header {
   height: 60px;
   display: flex;
@@ -7,6 +8,7 @@
   top: 0;
   z-index: 100;
   width: 100vw;
+  color: white !important;
 }
 
 .header__logo {
